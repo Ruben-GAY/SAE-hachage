@@ -1,6 +1,6 @@
 #!/bin/bash
 
-javac Dictionnaires.java 
+javac Dictionnaire.java 
 javac HTNaive.java
 javac HTNaiveMain.java
 javac ListeBigI.java
