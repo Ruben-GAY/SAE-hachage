@@ -1,17 +1,37 @@
-### ALEXIS CAMPS - DORIAN GRASSET - RUBEN GAY - ISSIAKA CISSOKHO 📚
+### 📚ALEXIS CAMPS - DORIAN GRASSET - RUBEN GAY - ISSIAKA CISSOKHO📚
 
 
-**SAE HACHAGE**
+**SAE HACHAGE** 🏷️
 
-Vous trouverez dans ce repo notre travail sur la SAE Hachage.
-
----
-### Sommaire
-1. [Réponses aux questions](#réponses-aux-questions)
-2. [Fichiers](#fichiers)
+Vous trouverez dans ce repository notre travail sur la SAE Hachage.
 
 ---
-## Réponses aux questions
+### Sommaire 📁
+1. [Compilation du code & lancement des tests](#compilation-du-code-&-lancement-des-tests)
+2. [Réponses aux questions](#réponses-aux-questions)
+3. [Fichiers](#fichiers)
+
+---
+## Compilation du code & lancement des tests 📂
+
+> Étape 1:
+
+Télécharger les fichiers .java présent dans le repository ainsi que le script "script.sh" et mettez tout dans le même dossier.
+
+> Étape 2:
+
+Donner la permission d'exécuter le script dans le terminal avec la commande :
+`chmod a+x script.sh`
+
+> Étape 3:
+
+Placer vous dans le dossier et lancer le script dans le terminal à l'aide de la commande :
+`./script.sh`
+
+**Voilà ! Vos fichiers .java sont compilés et les tests sont affichés**
+
+---
+## Réponses aux questions 📂
 
 >**Question 1:**
 
@@ -42,16 +62,22 @@ On doit trouver un nombre de multiplications pour convertir une chaîne s(k). Po
 
 >**Question 27:**
 
-Dans le fichier "LeRougeEtLeNoir.txt" il y a `16280 mots` différents.
+Dans le fichier "LeRougeEtLeNoir.txt" il y a `14445 mots` différents.
 
 ---
-## Fichiers
+## Fichiers 📂
 
-- [x] Dictionnaires.java
+- [x] Dictionnaires.java 
 - [x] HTNaive.java
+- [x] HTNaiveMain.java
 - [x] LeRougeEtLeNoir.txt
 - [x] ListeBigI.java
 - [x] Maillon.java
 - [x] randomWords.txt
 - [x] randomWordsPetit.txt
+- [x] readme.md
 
+
+---
+
+Département informatique - IUT Montpellier Sète – S6
