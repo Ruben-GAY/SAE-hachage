@@ -7,9 +7,9 @@ Vous trouverez dans ce repository notre travail sur la SAE Hachage.
 
 ---
 ### Sommaire 📁
-1. [Compilation du code & lancement des tests](#compilation-du-code-&-lancement-des-tests-📂)
-2. [Réponses aux questions](#réponses-aux-questions-📂)
-3. [Fichiers](#fichiers-📂)
+1. [Compilation du code & lancement des tests](#compilation-du-code--lancement-des-tests-)
+2. [Réponses aux questions](#réponses-aux-questions-)
+3. [Fichiers](#fichiers-)
 
 ---
 ## Compilation du code & lancement des tests 📂
