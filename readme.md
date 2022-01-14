@@ -7,23 +7,23 @@ Vous trouverez dans ce repository notre travail sur la SAE Hachage.
 
 ---
 ### Sommaire 📁
-1. [Compilation du code & lancement des tests](#compilation-du-code-&-lancement-des-tests)
-2. [Réponses aux questions](#réponses-aux-questions)
-3. [Fichiers](#fichiers)
+1. [Compilation du code & lancement des tests](#compilation-du-code-&-lancement-des-tests-📂)
+2. [Réponses aux questions](#réponses-aux-questions-📂)
+3. [Fichiers](#fichiers-📂)
 
 ---
 ## Compilation du code & lancement des tests 📂
 
-> Étape 1:
+>**Étape 1:**
 
 Télécharger les fichiers .java présent dans le repository ainsi que le script "script.sh" et mettez tout dans le même dossier.
 
-> Étape 2:
+>**Étape 2:**
 
 Donner la permission d'exécuter le script dans le terminal avec la commande :
 `chmod a+x script.sh`
 
-> Étape 3:
+>**Étape 3:**
 
 Placer vous dans le dossier et lancer le script dans le terminal à l'aide de la commande :
 `./script.sh`
