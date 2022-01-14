@@ -7,8 +7,8 @@ Vous trouverez dans ce repo notre travail sur la SAE Hachage.
 
 ---
 ### Sommaire
-1. [Réponses aux questions](##-Réponses-aux-questions)
-2. [Fichiers](##-Fichiers)
+1. [Réponses aux questions](##Réponses-aux-questions)
+2. [Fichiers](##Fichiers)
 
 ---
 ## Réponses aux questions
