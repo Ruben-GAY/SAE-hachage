@@ -6,12 +6,12 @@
 Vous trouverez dans ce repo notre travail sur la SAE Hachage.
 
 ---
-### Sommaire :
-1. [Réponses aux questions](##-Réponses-aux-questions-:)
-2. [Fichiers](##-Fichiers-:)
+### Sommaire
+1. [Réponses aux questions](##-Réponses-aux-questions)
+2. [Fichiers](##-Fichiers)
 
 ---
-## Réponses aux questions :
+## Réponses aux questions
 
 >**Question 1:**
 
@@ -45,7 +45,7 @@ On doit trouver un nombre de multiplications pour convertir une chaîne s(k). Po
 Dans le fichier "LeRougeEtLeNoir.txt" il y a `16280 mots` différents.
 
 ---
-## Fichiers :
+## Fichiers
 
 - [x] Dictionnaires.java
 - [x] HTNaive.java
@@ -54,4 +54,3 @@ Dans le fichier "LeRougeEtLeNoir.txt" il y a `16280 mots` différents.
 - [x] Maillon.java
 - [x] randomWords.txt
 - [x] randomWordsPetit.txt
-
