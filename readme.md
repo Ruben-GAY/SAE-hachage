@@ -1,4 +1,4 @@
-# ALEXIS CAMPS - DORIAN GRASSET - RUBEN GAY - ISSIAKA CISSOKHO 📚
+### ALEXIS CAMPS - DORIAN GRASSET - RUBEN GAY - ISSIAKA CISSOKHO 📚
 
 
 **SAE HACHAGE**
@@ -7,8 +7,8 @@ Vous trouverez dans ce repo notre travail sur la SAE Hachage.
 
 ---
 ### Sommaire
-1. [Réponses aux questions](##Réponses-aux-questions)
-2. [Fichiers](##Fichiers)
+1. [Réponses aux questions](##réponses-aux-questions)
+2. [Fichiers](##fichiers)
 
 ---
 ## Réponses aux questions
@@ -54,3 +54,4 @@ Dans le fichier "LeRougeEtLeNoir.txt" il y a `16280 mots` différents.
 - [x] Maillon.java
 - [x] randomWords.txt
 - [x] randomWordsPetit.txt
+
