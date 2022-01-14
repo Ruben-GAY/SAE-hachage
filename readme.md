@@ -76,6 +76,7 @@ Dans le fichier "LeRougeEtLeNoir.txt" il y a `14445 mots` différents.
 - [x] randomWords.txt
 - [x] randomWordsPetit.txt
 - [x] readme.md
+- [x] script.sh
 
 
 ---
